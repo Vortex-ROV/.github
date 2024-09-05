@@ -31,13 +31,13 @@ We welcome contributions from team members and the community. To contribute, ple
    ```
 
 3. **Push to Your Branch:**
-   Push your changes to your forked repository.
+   Push your changes to your branch.
    ```bash
-   git push origin feature-name
+   git push repo-name feature-name
    ```
 
 4. **Create a Pull Request:**
-   Open a pull request to merge your changes into the main repository. Be sure to provide a detailed description of your changes and link to any relevant issues.
+   Open a pull request to merge your changes into the main branch. Be sure to provide a detailed description of your changes and link to any relevant issues.
 
 ## Acknowledgements
 
