@@ -9,10 +9,13 @@ Welcome to the official GitHub organization for **Vortex ROV**, a team specializ
 ## Project Structure
 Our GitHub organization is divided into several repositories, each focusing on a specific aspect of our ROV development and team operation. Below is an overview of our main repositories:
 
-- **[Vortex-ROV/TCU-Code](https://github.com/Vortex-ROV/TCU-Code):** This repository contains the Top Side Control Unit's software codebase.
-- **[Vortex-ROV/ROV-Code](https://github.com/Vortex-ROV/ROV-Code):** This repository contains the codebase for the ROV's software.
-- **[Vortex-ROV/SW-Training-Phase1-2025](https://github.com/Vortex-ROV/SW-Training-Phase1-2025):** Contains the submissions and codes for training new team members and volunteers through phase 1 are organized here.
-- **[Vortex-ROV/SW-Training-Phase2-2025](https://github.com/Vortex-ROV/SW-Training-Phase2-2025):** Contains the submissions and codes for training new team members and volunteers through phase 2 are organized here.
+- **[Vortex-ROV/TCU-Code-2025](https://github.com/Vortex-ROV/TCU-Code-2025):** This repository contains the new Top Side Control Unit's software codebase.
+- **[Vortex-ROV/ROV-Code-2025](https://github.com/Vortex-ROV/ROV-Code-2025):** This repository contains the codebase for the new ROV's software.
+- **[Vortex-ROV/Float-Code-2025](https://github.com/Vortex-ROV/Float-Code-2025):** This repository contains the codebase for the new Float's software.
+- **[Vortex-ROV/Float-TCU-Code-2025](https://github.com/Vortex-ROV/Float-TCU-Code-2025):** This repository contains the codebase for the new Float TCU's software.
+- **[Vortex-ROV/TCU-Code-2024](https://github.com/Vortex-ROV/TCU-Code-2024):** This repository contains the Top Side Control Unit's software codebase from the previous year.
+- **[Vortex-ROV/ROV-Code-2024](https://github.com/Vortex-ROV/ROV-Code-2024):** This repository contains the codebase for the ROV's software from the previous year.
+- **[Vortex-ROV/Float-Code-2024](https://github.com/Vortex-ROV/ROV-Code-2024):** This repository contains the codebase for the Float's software from the previous year.
 
 ## Contributing
 
