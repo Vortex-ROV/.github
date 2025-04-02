@@ -1,10 +1,10 @@
-# Vortex ROV
+# Vortex Explorers
 
-Welcome to the official GitHub organization for **Vortex ROV**, a team specializing in the design, development, and deployment of Remotely Operated Vehicles (ROVs) for underwater exploration and competition. This repository serves as the central hub for all our software, design files, documentation, and collaborative projects.
+Welcome to the official GitHub organization for **Vortex Explorers**, a company specializing in the design, development, and deployment of Remotely Operated Vehicles (ROVs) for underwater exploration and competition. This repository serves as the central hub for all our software, design files, documentation, and collaborative projects.
 
 ## About Us
 
-**Vortex ROV** is dedicated to pushing the boundaries of underwater technology. Our team comprises passionate engineers, programmers, and enthusiasts who work together to innovate and create reliable ROV systems. We actively participate in competitions like the MATE ROV Competition and NURC, where we showcase our technical prowess and teamwork.
+**Vortex Explorers** is dedicated to pushing the boundaries of underwater technology. Our company comprises passionate engineers, programmers, and enthusiasts who work together to innovate and create reliable ROV systems. We actively participate in competitions like the MATE ROV Competition and NURC, where we showcase our technical prowess and teamwork.
 
 ## Project Structure
 Our GitHub organization is divided into several repositories, each focusing on a specific aspect of our ROV development and team operation. Below is an overview of our main repositories:
